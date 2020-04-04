@@ -1,0 +1,3 @@
+print("Olá")
+print("Mundo")
+n1 = int(input('Digite um numero'))
